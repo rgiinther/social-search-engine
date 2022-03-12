@@ -1,2 +1,1 @@
-# social-search-engine
-Challenge 1. 
+# Code Refactor Starter Code
