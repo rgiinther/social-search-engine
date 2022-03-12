@@ -53,7 +53,6 @@ p {
 }
 .menu li {
     padding-right: 90px;
-    padding-right: 90px;
 }
 /*end of webpage menu*/
 
@@ -239,7 +238,7 @@ p {
     max-width: 150px;
 }
 /*end right info section*/
-
+/*begin footer section*/
 .footer {
     padding: 30px;
     clear: both;
